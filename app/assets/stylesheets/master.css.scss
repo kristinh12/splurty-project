@@ -108,3 +108,7 @@ h1 span {
 ::selection {
   background-color: #D90944;
 }
+
+@-ms-viewport{
+  width: device-width;
+}
